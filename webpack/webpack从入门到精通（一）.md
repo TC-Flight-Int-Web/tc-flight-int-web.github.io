@@ -37,7 +37,7 @@
 	};
 	
 
-其中entry是入口文件，output是编译后输出文件，module中loaders是解析操作
+其中*entry*是入口文件，*output*是编译后输出文件，*module*中*loaders*是解析操作
 
 ##未完待续
 
