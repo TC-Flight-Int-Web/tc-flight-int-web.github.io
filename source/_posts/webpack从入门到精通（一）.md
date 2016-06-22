@@ -1,7 +1,8 @@
 ---
 title: webpack从入门到精通（一）
 date: 2016-06-17 18:23:44
-tags:
+tags: 分享日志
+author: 徐伟
 ---
 ## 什么是webpack
 事实上它是一个打包工具，而不是像RequireJS或SeaJS这样的模块加载器，通过使用Webpack，能够像Node.js一样处理依赖关系，然后解析出模块之间的依赖，将代码打包
