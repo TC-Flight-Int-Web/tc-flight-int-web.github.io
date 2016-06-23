@@ -26,7 +26,7 @@ $ npm install -g hexo
 ``` bash
 $ git clone git@github.com:TC-Flight-Int-Web/blog.git
 $ cd blog
-$ git pull 获取最新的代码，防止冲突，搞掉其他人文章
+$ git pull origin master 获取最新的代码，防止冲突，搞掉其他人文章
 ```
 > 记住一定要**获取最新的代码**
 
@@ -77,4 +77,12 @@ $ INFO  Deploying: git
 $ INFO  Clearing .deploy_git folder...
 $ INFO  Copying files from public folder...
 $ INFO  Deploy done: git
+```
+
+##### 11. 提交代码，防止其他人搞掉你的文章
+``` bash
+$ git pull origin master
+$ git add .
+$ git commit -m "文章书写"
+$ git push origin master
 ```
