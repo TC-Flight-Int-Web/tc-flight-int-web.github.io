@@ -24,7 +24,7 @@ customize:
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: # path to favicon
+    favicon: /img/favicon.ico # path to favicon
     social_links:
         github: https://github.com/TC-Flight-Int-Web
         #twitter: /
